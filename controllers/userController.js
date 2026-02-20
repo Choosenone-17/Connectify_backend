@@ -1,4 +1,4 @@
-import User from "../models/user.js";
+import User from "../models/User.js";
 
 // UPDATE PROFILE
 export const updateProfile = async (req, res) => {
